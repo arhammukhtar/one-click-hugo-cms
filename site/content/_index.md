@@ -6,7 +6,6 @@ description: "The personal writings and expressions of Arham Mukhtar"
 
 ## Welcome to my corner of the internet!
 
-### &#128526;
 
 This is where I'll share my essays, blogs and musings. I will mostly be writing about topics I am interested in which include AI, Neural Networks, Big Data etc.
 

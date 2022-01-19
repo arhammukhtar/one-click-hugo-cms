@@ -27,15 +27,18 @@ tabWidth = 4
 
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
-
+[[menu.main]]
+name = "books2022"
+url = "/books2022.html"
+weight = 2
 [[menu.main]]
 name = "books2021"
 url = "/books2021.html"
-weight = 1
+weight = 3
 [[menu.main]]
 name = "books2020"
 url = "/books2020.html"
-weight = 2
+weight = 4
 # [[menu.main]]
 # name = "Tags"
 # url = "/tags/"
