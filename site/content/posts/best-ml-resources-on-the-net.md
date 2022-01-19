@@ -1,7 +1,7 @@
 ---
 title: "The Best Machine Learning Resources Available for Free"
 date: 2022-01-19T15:07:29+05:00
-draft: true
+draft: false
 ---
 
 I am studying a graduate level ML course this semester and so have been on the lookout for good resources (free) augment what I learn in class. I will be adding the most helpful ones here.
