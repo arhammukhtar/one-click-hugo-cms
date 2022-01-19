@@ -8,7 +8,12 @@ draft: false
 \# Recommended  
 RR Reread
 
-## 2021
+### Currently Reading:
+1. Liar's Poker by Michael Lewis (1989)
+2. Pakistan Society by Akbar S. Ahmad (1987)
+3. The Day of the Jackal by Frederick Forsyth (1967)
+
+## 2022
 
 ### January
 
