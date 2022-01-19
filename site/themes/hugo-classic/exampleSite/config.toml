@@ -1,13 +1,11 @@
 baseurl = "/"
-relativeURLs = true
-uglyURLs = true
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
-title = "Main"
+title = "Classic"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -29,25 +27,18 @@ tabWidth = 4
 post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
-name = "books2021"
-url = "/books2021.html"
+name = "Categories"
+url = "/categories/"
 weight = 1
 [[menu.main]]
-name = "books2020"
-url = "/books2020.html"
+name = "Tags"
+url = "/tags/"
 weight = 2
-# [[menu.main]]
-# name = "Tags"
-# url = "/tags/"
-# weight = 2
-#[[menu.feed]]
-#name = "Subscribe"
-#url = "/index.xml"
-
-
+[[menu.feed]]
+name = "Subscribe"
+url = "/index.xml"
 
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-#footer = "Arham's Website | [Twitter](https://twitter.com/arhamcc) | [Github](https://github.com/arhammukhtar) | [Old Blog](https://blog.arhamt.com)"
-footer = "Arham's Website | [Twitter](https://twitter.com/arhamcc)"
+footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
