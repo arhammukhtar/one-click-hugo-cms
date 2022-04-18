@@ -15,4 +15,5 @@ RR Reread
 
 ### April
 1. The Maltese Falcon by Dashiell Hammett (1929)
-
+It has been a long time since I was able to finish a book and I am very glad that I now did. The Maltest Falcon is a classic of the neo noir detective fiction genre.  
+Reading this has made me want to read/re-read some Le Carre novel. 
